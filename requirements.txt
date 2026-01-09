@@ -1,7 +1,6 @@
-# Airflow DB
+Airflow DB
 psycopg2-binary
 
-# Spark
 pyspark
 fastparquet
 
@@ -12,3 +11,9 @@ matplotlib
 
 numpy
 scikit-learn
+
+
+fastapi
+sqlalchemy 
+dotenv
+psycopg2
